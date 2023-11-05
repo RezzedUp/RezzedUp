@@ -16,6 +16,7 @@
 [![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)](# "TypeScript")
 [![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)](# "Visual Studio Code")
 [![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=512BD4&logo=C+Sharp&logoColor=FFFFFF&label=)](# "C#")
+[![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)](# "React")
 [![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)](# "IntelliJ IDEA")
 [![Eleventy](https://img.shields.io/static/v1?style=for-the-badge&message=Eleventy&color=000000&logo=Eleventy&logoColor=FFFFFF&label=)](# "Eleventy")
 
