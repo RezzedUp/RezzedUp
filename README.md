@@ -27,4 +27,14 @@
 
 - My website: https://rezzedup.com 🪐
 - Sponsor me? https://github.com/sponsors/RezzedUp 😁
-- [![](https://komarev.com/ghpvc/?username=RezzedUp)](# "I see you!") 👋 👁️👁️
+
+<details>
+  <summary>
+    ...
+  </summary>
+  
+👋 👁️👁️
+
+[![](https://komarev.com/ghpvc/?username=RezzedUp)](# "I see you!") 
+
+</details>
